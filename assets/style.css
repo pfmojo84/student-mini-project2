@@ -1,4 +1,19 @@
+.text-center{
+    text-align: center;
+}
+
+.form {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: lightgray;
+}
+
 .contact{
 background-color: aqua;
 color: black;
 }
+
+#box-info {
+    color: black;
+    background-color: antiquewhite;
+    inline-size: 300px;
+    }
